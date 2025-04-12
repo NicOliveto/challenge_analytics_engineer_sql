@@ -1,0 +1,1 @@
+# challenge_analytics_engineer_sql
